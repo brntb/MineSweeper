@@ -1,1 +1,1 @@
-# HyperSkill-MineSweeper
+# MineSweeper
